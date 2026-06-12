@@ -1,3 +1,5 @@
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/3e687e60-a8fc-4d06-bd23-22ddcad329da" />
+
 ## 🔥 QuestionJukebox's Adventure
 
 "The joystick absolutely sucks!"
