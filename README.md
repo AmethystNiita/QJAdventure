@@ -2,7 +2,7 @@
 
 ## 🔥 QuestionJukebox's Adventure
 
-QuestionJukebox's Adventure is a Scratch game made by 10 year-old me. I'm currently improving, optimizing, remastering, and fixing the game! Stay tuned.
+QuestionJukebox's Adventure is a Scratch game made by 10 year-old me. I'm currently improving, optimizing, remastering, and fixing the game. Stay tuned!
 
 ## 🥵 How to access
 
